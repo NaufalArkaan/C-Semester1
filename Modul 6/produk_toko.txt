@@ -1,0 +1,10 @@
+ID produk: 2
+Nama produk: herbal
+Kategori produk: obat
+Harga produk: 127777
+Stok produk: 5
+ID produk: 3
+Nama produk: wsss
+Kategori produk: wqasd
+Harga produk: 12345
+Stok produk: 3
